@@ -1,0 +1,66 @@
+.html {
+  font-size: 10px;
+}
+
+.icon {
+  font-size : 50px;
+
+}
+
+.description {
+  font-size: 25px;
+  color : grey;
+}
+
+.title-experience, .description-experience{
+  font-size: 25px;
+  color: white;
+}
+
+.date-experience {
+  font-style: italic;
+  color: black;
+}
+
+.place-experience {
+  font-size: 25px;
+  color: grey;
+}
+
+.description-projects, .date-experience {
+  font-size: 20px;
+}
+
+h4 {
+  color: black;
+  font-weight: bold;
+}
+
+.go-to-btn {
+  font-size: 20px;
+
+  color: black;
+}
+
+.mail, .phone {
+  font-size: 20px;
+}
+
+
+.button-cv {
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+
+.col-sm-4.sm-margin-b-50 {
+    margin-bottom: 40px;
+}
+
+.service {
+    height: 190px;
+}
+
+h3.front-end.p-2.mt-4.mb-4, h3.front-end.p-2.m-2 {
+    margin-top: 20px;
+}
